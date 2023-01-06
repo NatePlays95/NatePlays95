@@ -25,7 +25,7 @@ art portfolio goes here
   
 ## Repos you should check out:
 <a href="https://github.com/brenomacedo/g-track">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NatePlays95&repo=GodotCustomRaycastVehicle&theme=algolia"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NatePlays95&repo=GodotCustomRaycastCar&theme=algolia"/>
 </a>
 <br>
 <a href="https://github.com/brenomacedo/g-track">
