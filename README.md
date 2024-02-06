@@ -13,7 +13,7 @@ Brainstorming game mechanics and characters with friends has become routine at t
 ---
 
 ### My Website:
-[https://nateplays95.github.io/website/](https://nateplays95.github.io/website/)
+[https://nateplays95.github.io](https://nateplays95.github.io)
 
 ### Games: https://nate-the-bard.itch.io
 --> I've been publicly making games since 2021, but have plenty of projects from earlier years.
