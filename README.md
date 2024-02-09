@@ -15,17 +15,6 @@ Brainstorming game mechanics and characters with friends has become routine at t
 ### My Website:
 [https://nateplays95.github.io](https://nateplays95.github.io)
 
-### Games: https://nate-the-bard.itch.io
+### Games: 
+[https://nate-the-bard.itch.io](https://nate-the-bard.itch.io)
 --> I've been publicly making games since 2021, but have plenty of projects from earlier years.
-
----
-  
-## Repos you should check out:
-<a href="https://github.com/brenomacedo/g-track">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NatePlays95&repo=GodotCustomRaycastCar&theme=algolia"/>
-</a>
-<br>
-<a href="https://github.com/brenomacedo/g-track">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NatePlays95&repo=RPGBattleJava&theme=algolia"/>
-</a>
-<br>
